@@ -1,7 +1,7 @@
 // @ts-check
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '107T Research Series',
+  title: 'Vonnegut Research Series',
   tagline: 'Papers on issues of interest to Isla Vista residents',
   favicon: 'img/zombie.svg',
 
