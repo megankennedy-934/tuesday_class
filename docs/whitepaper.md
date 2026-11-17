@@ -27,14 +27,6 @@ monument looked like this:
 We are healthy only to the extent that our ideas are humane.
 :::
 
-## 1. Executive Summary {#executive}
-
-The future of Isla Vista is bleak. Rent prices are astronomically high, often forcing multiple people into a single apartment. The parking can only be described as abysmal, with visitors often needing to circle multiple times to find a spot. Erosion is eating away at the cliffs, raising questions about the need for a coastal retreat. Most important, though, is our lack of preparation for the zombie apocalypse. If the undead were to pour onto our streets, we would be left defenseless.
-
-The Isla Vista Community Services District[^ivcsd] must immediately draft a formal zombie response plan. This white paper will address some issues that should be taken into consideration. We review the leading scientific explanation for zombie infection, propose four measures to protect Isla Vista, estimate what those measures will cost, and report the results of a survey showing the lack of preparation of local students.
-
-![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
-
 ## 2. Two Quotes about Zombie Physiology {#twoquotes}
 
 Two esteemed biologists have made the following observations about the existence of zombies:
