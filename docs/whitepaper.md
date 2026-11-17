@@ -23,7 +23,7 @@ Sciences caused a monument to be erected over his ashes. Carved in its face was 
 from his last novel, his two-hundred-and-ninth novel, which was unfinished when he died. The
 monument looked like this:
 
-:::tip[Kilgore Trout, 1907–1981]
+:::note[Kilgore Trout, 1907–1981]
 We are healthy only to the extent that our ideas are humane.
 :::
 
