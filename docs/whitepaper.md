@@ -13,7 +13,7 @@ description: "A white paper urging local government to prepare Isla Vista for a 
   <span>**J. M. Forester**<br/>Zombie Biology Institute</span>
   <span>**Jim McHiggleteeth**<br/>Zombie Biology Institute</span>
 </div>
-
+[A picture of Italian coastal town](/img/italypic.jpg)
 ## 1.Kilgore Trout {#kilgoretrout}
 
 Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised
