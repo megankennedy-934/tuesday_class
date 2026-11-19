@@ -80,6 +80,13 @@ We distributed a survey among 173 college students. What we found was quite dist
   style={{ width: '100%', border: 'none' }}
 ></iframe>
 
+<iframe
+title="I would shoot my fellow students in the leg."
+aria-label="Grouped column chart"
+src="https://datawrapper.dwcdn.net/M3o5n/" height="476"
+style={{ width: '100%', border: 'none' }}
+></iframe>
+
 Many respondents were unwilling to slow down a fellow student, even to save their own lives. This kind of loyalty is admirable in ordinary times, but in an outbreak it could doom everyone. A full description of the survey appears in Appendix A.
 
 We need to grow much more comfortable sacrificing our fellow humans if we are to survive.
